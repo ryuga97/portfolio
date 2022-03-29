@@ -284,7 +284,7 @@ export default function Home() {
           </div>
           <div className={style.cp_box}>
             <small className={`${style.cp_txt} ${media.cp_txt_sp}`}>
-              "© Bar Kakuu 2022"
+              © Bar Kakuu 2022
             </small>
           </div>
         </footer>

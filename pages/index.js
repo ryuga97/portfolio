@@ -53,7 +53,7 @@ export default function Home() {
 
         <main>
           <div className={`${style.content} ${media.content_sp}`}>
-            <div className={`${style.main_img} ${media.padding_sp}`}></div>
+            <div className={`${style.main_img} ${media.main_img_sp} ${media.padding_sp}`}></div>
 
             {/* sec-1 about */}
 

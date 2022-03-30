@@ -265,9 +265,9 @@ export default function Home() {
                 <h3 className={`${style.ct_title} ${media.ct_title_sp}`}>
                   お問合わせ
                 </h3>
-                <p className={`${style.ct_form} ${media.ct_form_sp}`}>
+                <a className={`${style.ct_form} ${media.ct_form_sp}`}>
                   contact form
-                </p>
+                </a>
                 <p className={`${style.ct_exp} ${media.ct_exp_sp}`}>
                   メールでのご予約も承っております
                 </p>

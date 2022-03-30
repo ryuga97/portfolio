@@ -320,6 +320,11 @@
   transition: opacity 200ms ease-out;
 }
 
+.ct_form:hover{
+  letter-spacing: .2em;
+  background-color: rgb(255, 255, 255, .5);
+}
+
 .ct_form::before {
   content: "";
   position: absolute;

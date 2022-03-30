@@ -53,15 +53,7 @@ export default function Home() {
 
         <main>
           <div className={`${style.content} ${media.content_sp}`}>
-            <div className={`${style.main_img} ${media.padding_sp}`}>
-              {/* <Image
-                src="/yakei.jpg"
-                alt="都会の夜景"
-                width={1600}
-                height={1066}
-                objectFit="cover"
-              /> */}
-            </div>
+            <div className={`${style.main_img} ${media.padding_sp}`}></div>
 
             {/* sec-1 about */}
 
